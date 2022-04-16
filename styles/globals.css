@@ -10,3 +10,7 @@
   --text-color-primary: #182135;
   --text-color-secondary: #3F3F3F;
 }
+
+body {
+  background-color: var(--background);
+}
